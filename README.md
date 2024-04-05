@@ -29,7 +29,3 @@ Acknowledgments
 ---------------
 
 Special thanks to Jinsung Yoon, Daniel Jarrett, and Mihaela van der Schaar for their groundbreaking work on TimeGAN. This thesis project is indebted to their insights and contributions to the field of machine learning for health.
-
-* * *
-
-This [README.md](http://README.md) provides a structured and detailed overview of your project, making it easier for others to understand the purpose, structure, and usage of your repository. Adjustments can be made to reflect the specifics of your repository's structure and any additional components it may contain.
