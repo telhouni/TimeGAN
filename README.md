@@ -21,7 +21,7 @@ Notebook Features
 *   **Model Training**: Detailed steps for training the TimeGAN model on the preprocessed data.
 *   **Synthetic Data Generation**: Procedures to generate synthetic data mimicking the original dataset's characteristics.
 *   **Evaluation**: Metrics and methods to evaluate the quality and utility of the generated synthetic data against the real dataset.
-*   **Visualization**: Visual aids to compare real and synthetic data distributions, including PCA and t-SNE analyses.
+*   **Visualisation**: Visual aids to compare real and synthetic data distributions, including PCA and t-SNE analyses.
 
 Getting Started
 ---------------
@@ -50,3 +50,5 @@ Copy code
 `@inproceedings{yoon2019time,   title={Time-series generative adversarial networks},   author={Yoon, Jinsung and Jarrett, Daniel and van der Schaar, Mihaela},   booktitle={Advances in neural information processing systems},   year={2019} }`
 
 Special thanks to Jinsung Yoon, Daniel Jarrett, and Mihaela van der Schaar for their foundational work on TimeGAN, and to the providers of the CrossCheck dataset for supporting mental health research.
+
+
