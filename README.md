@@ -10,7 +10,7 @@ Contents
 --------
 
 *   **TimeGAN\_CrossCheck\_Analysis.ipynb**: An IPython Notebook that encapsulates the entire process from data preprocessing, model training, synthetic data generation, to evaluation of synthetic data.
-*   **Data/**: Reference directory (actual data not included due to privacy concerns).
+*   **TimeGAN\_CrossCheck\_Evaluation.ipynb**: An IPython Notebook that presents the process for the further evaluation of the synthetic data.
 *   **Requirements.txt**: Specifies the Python packages required to run the notebook.
 
 Notebook Features
