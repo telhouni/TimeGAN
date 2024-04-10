@@ -43,10 +43,6 @@ Citation & Acknowledgments
 
 If you find this work useful, please consider citing the original TimeGAN paper and any other relevant literature:
 
-bibtex
-
-Copy code
-
 `@inproceedings{yoon2019time,   title={Time-series generative adversarial networks},   author={Yoon, Jinsung and Jarrett, Daniel and van der Schaar, Mihaela},   booktitle={Advances in neural information processing systems},   year={2019} }`
 
 Special thanks to Jinsung Yoon, Daniel Jarrett, and Mihaela van der Schaar for their foundational work on TimeGAN, and to the providers of the CrossCheck dataset for supporting mental health research.
